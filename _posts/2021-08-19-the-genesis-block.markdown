@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dear Bitcoin"
+title:  "The Genesis Block"
 date:   2021-08-19 16:35:47 +0100
 ---
 # The Genesis Block

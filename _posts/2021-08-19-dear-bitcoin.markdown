@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dear Bitcoin"
-date:   2021-08-19 16:35:47 +0100
+date:   2021-08-12 16:35:47 +0100
 ---
 # Dear Bitcoin
 
